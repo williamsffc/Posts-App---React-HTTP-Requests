@@ -18,7 +18,7 @@
 5. [Screenshots](#screenshots) 
 
 ## **Installation:**
-* From terminal: `node index.js`
+* From terminal: `npm start`
 
 ## **Usage:**
 * To have a better understanding of HTTP requests using React.js
