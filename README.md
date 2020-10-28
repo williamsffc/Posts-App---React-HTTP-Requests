@@ -21,7 +21,7 @@
 * From terminal: `node index.js`
 
 ## **Usage:**
-* To have a better understanding of HTTP request using React.js
+* To have a better understanding of HTTP requests using React.js
 
 ## **Questions:**
 * wlliamsffc@gmail.com
